@@ -3,7 +3,7 @@
 
 Nice to meet you! My name is Somdotta.I'm from India currently living in France I'm currently studying in ![](https://img.shields.io/badge/-Microverse-blueviolet) to become a 
 **Full-stack web developer** :computer:
-
+![image](https://user-images.githubusercontent.com/84907743/139536492-e7c28942-1569-4e0c-baa8-65149d62282c.png)
 - I would like to contribute to the field of `Education Technology` :female-technologist: in the future.
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning ...Data structure , webpack
