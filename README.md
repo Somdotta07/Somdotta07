@@ -1,12 +1,15 @@
 # Hey,
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome!%F0%9F%A4%97;I'm+Somdotta+%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%84)](https://git.io/typing-svg)
 
 <h3 align="center"> I'm a software developer!</h3>
-:computer:
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 <p align="center"> Currently, I'm learning remote software development from Microverse. I spend most of my time learning different frameworks and technologies related to web development.</p>
+<!-- <img  src="https://user-images.githubusercontent.com/84907743/139536492-e7c28942-1569-4e0c-baa8-65149d62282c.png" /> -->
 
 
-![image](https://user-images.githubusercontent.com/84907743/139536492-e7c28942-1569-4e0c-baa8-65149d62282c.png)
+
 - I would like to contribute to the field of `Education Technology` :female-technologist: in the future.
 - 🔭 I’m currently working on JavaScript frameworks,React, CSS
 - 🌱 I’m currently learning ...Data structure , Algorithm, Python, three.js
@@ -19,6 +22,39 @@
 - ⚡ Fun fact: Google is my best friend
 
 ## My stack ✔︎
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img align="left" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img align="" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
 
+<table align="center">
+    <tr>
+      <td align="center"><img align="center" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /></td>
+      <td align="center"><img align="center" alt="Redux" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDn-_kLAcnntK415Ct2XJd9Uz6A74Qs6LkvcoS6GNWzG-0zsBTBS1EUTYdJXXJn-JnqQ&usqp=CAU" style="padding-right:10px;" /></td>
+      <td align="center"><img align="center" alt="npm" width="26px" src="https://www.svgrepo.com/show/354126/npm-icon.svg"/></td>
+    </tr>
+    <tr>
+        <td align="center"><img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></td>
+        <td align="center"><img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></td>
+        <td align="center"><img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></td>
+    </tr>
+    <tr>
+        <td align="center"><img align="center" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /></td>
+        <td align="center"><img align="center" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /></td>
+        <td align="center">
+        <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img align="center" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></td>
+      <td align="center"><img align="center" alt="Git" width="26px" src="https://www.pngitem.com/pimgs/m/288-2880547_node-node-js-hd-png-download.png" style="padding-right:10px;" /></td>
+      <td align="center"><img align="center" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="padding-right:10px;" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img align="center" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" style="padding-right:10px;" /></td>
+      <td align="center"><img align="center" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" style="padding-right:10px;" /></td>
+      <td align="center"><img align="center" alt="Git" width="26px" src="https://user-images.githubusercontent.com/5307958/38454395-eba34a8a-3a90-11e8-9c95-680a7aea037f.png" style="padding-right:10px;" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img alt="Netlify" width="70px" src="https://img.shields.io/badge/-Netlify-white?logo=Netlify&logoColor=00C7B7&style=plastic"/></td>
+      <td align="center"><img alt="Heroku" width="72px" src="https://img.shields.io/badge/-Heroku-white?logo=Heroku&logoColor=430098&style=plastic"/></td>
+      <td align="center"><img alt="GitHub-Pages" width="112px" src="https://img.shields.io/badge/-GitHub%20Pages-white?logo=GitHub-Pages&logoColor=222222&style=plastic"/></td>
+    </tr>
+</table>
 
+<p>You can check out my portfolio <a href="https://somdotta-dev.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
