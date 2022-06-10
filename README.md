@@ -6,10 +6,10 @@
 <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="center"> Currently, I'm learning remote software development from Microverse. I spend most of my time learning different frameworks and technologies related to web development.</p>
+<div align="center">
+<img align="center" src="https://media0.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=ecf05e47ai4hob2fx69etmw54v68gqknhlnq9ylk0dmmipgn&rid=giphy.gif&ct=g" width="180" height="200" />
 
-
-![Alt Text](https://media0.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=ecf05e47ai4hob2fx69etmw54v68gqknhlnq9ylk0dmmipgn&rid=giphy.gif&ct=g)
-
+</div>
 
 - <p>You can check out my portfolio <a href="https://somdotta-dev.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
