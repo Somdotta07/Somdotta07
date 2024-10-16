@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome!%F0%9F%A4%97;I'm+Somdotta+%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%84)](https://git.io/typing-svg)
 
-<h3 align="center"> I'm a software developer!</h3>
+<h3 align="center"> I'm a fullstack developer!</h3>
 <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<p align="center"> Currently, I'm learning remote software development from Microverse. I spend most of my time learning different frameworks and technologies related to web development.</p>
+<p align="center"> Currently, I'm working with a startup as a junior developer. I spend most of my time learning different frameworks and technologies related to web development.</p>
 <div align="center">
 <img align="center" src="https://media0.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=ecf05e47ai4hob2fx69etmw54v68gqknhlnq9ylk0dmmipgn&rid=giphy.gif&ct=g" width="180" height="200" />
 
@@ -16,12 +16,12 @@
 - 🎓Recent Full-stack developer graduate from Microverse (Remote software program)
 - I would like to contribute to the field of `Education Technology`    in the future.
 - 🔭 I’m currently working on JavaScript frameworks,React, CSS
-- 🌱 I’m currently learning ...Data structure , Algorithm, Python, three.js
+- 🌱 I’m currently learning ...Python, three.js, machine learning
 - 👯 I’m looking to collaborate on open source projects
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📫 How to reach me: 
 
-   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somdotta-sarkar-8849b419/)     [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhilick.s@gmail.com)
+   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/somdottasarkar/)](https://www.linkedin.com/in/somdottasarkar/))     [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhilick.s@gmail.com)
 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Google is my best friend
